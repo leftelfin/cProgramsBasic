@@ -1,2 +1,2 @@
 # cProgramsBasic
-This iss a collection basic c programs 
+This is a collection basic c programs 
